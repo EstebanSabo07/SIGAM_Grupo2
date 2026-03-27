@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SIGAM — Sistema Integrado de Gestión y Análisis Municipal
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://python.org)
@@ -130,3 +131,7 @@ gcloud run deploy sigam \
 ## 📄 Licencia
 
 Proyecto académico — LEAD University / CGR Costa Rica · 2025
+=======
+# Proyecto-An-lisis-de-datos---Grupo-2-
+Análisis y replicación del Índice de Gestión de Servicios Municipales (IGSM) 2025 - Contraloría General de la República de Costa Rica. BBCD001 Análisis de Datos, Lead University.
+>>>>>>> f415e5a3843e9347c04782b735c8a43b0b3d76a3
