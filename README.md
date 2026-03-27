@@ -88,7 +88,7 @@ SIGAM/
 
 ##  Funcionalidades principales
 
--  Formulario IGSM digital con 163 indicadores (replicación exacta CGR 2025)
+-  163 preguntas en el formulario (159 indicadores oficiales CGR más 4 sub-preguntas desglosadas para mayor claridad)
 -  Cálculo automático del índice con fórmula oficial
 -  5 niveles de madurez: Inicial · Básico · Intermedio · Avanzado · Optimizando
 -  Validación de consistencia en tiempo real
