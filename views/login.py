@@ -96,3 +96,4 @@ def show():
         if st.button("← Volver al inicio", use_container_width=False):
             st.session_state["page"] = "landing"
             st.rerun()
+            #R1 
